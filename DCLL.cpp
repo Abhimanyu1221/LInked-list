@@ -267,7 +267,7 @@ int main()
     sobj.DeleteLast();
     sobj.Display();
     cout << "Number of Elements is " << sobj.Count();
-    sobj.DisplayRev();
+    
 
     return 0;
 }
