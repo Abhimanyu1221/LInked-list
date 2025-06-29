@@ -1,4 +1,4 @@
-// Singly Circulat  Linked list using c with dynamic appproch and using switch case
+// Singly Circulat  Linked list using c with static inputs
 
 #include <stdio.h>
 #include <stdlib.h>
